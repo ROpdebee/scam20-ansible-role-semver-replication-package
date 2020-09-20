@@ -1,6 +1,6 @@
-# Ansible SemVer reproduction package
+# Ansible SemVer replication package
 
-Reproduction package accompanying the SCAM 2020 publication: R. Opdebeeck, A. Zeraouli, C. Velázquez-Rodríguez, C. De Roover. “Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution”, In Proc. 20th Int. Working Conf. on Source Code Analysis and Manipulation, 2020.
+Replication package accompanying the SCAM 2020 publication: R. Opdebeeck, A. Zeraouli, C. Velázquez-Rodríguez, C. De Roover. “Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution”, In Proc. 20th Int. Working Conf. on Source Code Analysis and Manipulation, 2020.
 
 ## Directory structure
 
