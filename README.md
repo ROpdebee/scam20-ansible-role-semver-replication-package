@@ -7,3 +7,6 @@ Reproduction package accompanying the SCAM 2020 publication: R. Opdebeeck, A. Ze
 - `ansible_semver` contains the pipeline used to gather, extract, and analyse Ansible roles in the study.
 - `notebooks` contains the notebook and related code used to analyse the extracted data.
 - `random-forest` contains code, data, and output of the Random Forest classifier.
+
+## Dataset
+The dataset used in the paper, containing a large collection of Ansible Galaxy roles, their source code, versions, and metadata, can be found at [https://doi.org/10.5281/zenodo.4039514](https://doi.org/10.5281/zenodo.4039514). This dataset also contains numerous files that can be used in intermediary phases of the pipeline.
